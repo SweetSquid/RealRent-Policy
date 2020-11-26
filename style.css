@@ -1,0 +1,34 @@
+
+
+body {
+  background: #ffffff;
+  font-family: "Arial Rounded MT Bold", serif;
+  color: #000000;
+  line-height: 24px;
+}
+
+a {
+  color: #57c12d;
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 42px 128px;
+}
+
+.header_content {
+  margin-left: 52px;
+}
+
+#wrap {
+  max-width: 1024px;
+  margin:50px auto;
+  padding: 10px 20px;
+}
