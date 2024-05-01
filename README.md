@@ -1,3 +1,3 @@
-# RealRent iOS Privacy Policy (Kostiantyn Lelikov)
+# RealRent iOS Privacy Policy (Mykyta Frolov)
 
 
